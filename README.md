@@ -1,2 +1,2 @@
-# Leet-Code
-Problems I have attempted on LeetCode
+# leetcode
+Problems I have attempted on leetcode
